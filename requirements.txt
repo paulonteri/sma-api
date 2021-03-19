@@ -12,7 +12,7 @@ django-cors-headers==3.3.0
 django-debug-toolbar==2.2
 django-querycount==0.7.0
 django-rest-knox==4.1.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 environs==8.0.0
 funcy==1.14
 idna==2.10
