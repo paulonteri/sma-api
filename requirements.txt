@@ -30,7 +30,7 @@ python-dotenv==0.13.0
 pytz==2020.1
 redis==3.5.3
 requests==2.24.0
-rsa==4.6
+rsa==4.7
 sentry-sdk==0.16.5
 six==1.15.0
 sqlparse==0.3.1
