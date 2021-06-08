@@ -19,7 +19,7 @@ idna==2.10
 marshmallow==3.6.1
 mypy==0.782
 mypy-extensions==0.4.3
-Pillow==7.2.0
+Pillow==8.2.0
 protobuf==3.13.0
 psycopg2-binary==2.8.5
 pyasn1==0.4.8
